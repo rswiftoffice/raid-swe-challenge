@@ -34,6 +34,8 @@ You are required to deliver:
 
 2. A public github repository containing the source code. If you wish, you may keep the repository private and grant read access to the interview panel.
 
+3. a README file within your repository containing a list of the user stories you implemented.
+
 ## User Stories
 
 You are required to develop a full stack web application to serve as a Point of Sales application for an online fruits store. The application will have two user personas; a customer and a store owner.

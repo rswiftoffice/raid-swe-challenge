@@ -94,9 +94,9 @@ You may choose to implement some or all of following user stories in order to de
 
 Your web application must be a three-tier application:
 
-1. Front End. A React web application written in Javascript or Typescript and built with Create React App, Vite, or Next.js.
+1. Front End. A React web application written in Typescript and built with Create React App, Vite, or Next.js.
 
-2. Server. An API server written in Javascript or Typescript and run on Node.js. You may also write the API server using Next.js.
+2. Server. An API server written in Typescript and run on Node.js. You may also write the API server using Next.js.
 
 3. Database. Any database (e.g. postgresql, mongodb, etc.)
    You are free to use any additional tools, frameworks, or libraries to help you build the application. You are also free to use any CSS framework or library to style your application.
